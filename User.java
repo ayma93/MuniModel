@@ -5,7 +5,7 @@ public class User extends MuniObject
 
    getname (String personname)
    {
-      personname = name;
-      return personname;
+      name = personname;
+      return name;
    }
 }
