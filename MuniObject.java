@@ -1,0 +1,1 @@
+abstract class MuniObject{} //superclass from which all other objects in muni system originate
